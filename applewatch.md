@@ -1,0 +1,12 @@
+---
+author: p19mylo
+title: apple watch
+image_url: applewatch.jpg
+caption: 'Το Apple Watch είναι μια σειρά έξυπνων ρολογιών που παράγονται από την Apple Inc. Έχουν δυνατότητες παρακολούθησης υγείας, μέτρησης καρδιακών παλμών, κλήσης και άλλα.Το Apple Watch λειτουργεί κυρίως σε συνδυασμό με το iPhone του χρήστη για λειτουργίες όπως η διαμόρφωση του ρολογιού και ο συγχρονισμός δεδομένων με εφαρμογές iPhone, αλλά μπορεί να συνδεθεί και ξεχωριστά σε ένα δίκτυο Wi-Fi για ορισμένους σκοπούς.'
+license_url: 'https://el.wikipedia.org/wiki/Apple_Watch#/media/%CE%91%CF%81%CF%87%CE%B5%CE%AF%CE%BF:Apple_Watch_Series_6.jpg'
+license_text: 
+categories:
+  - apple watch
+tags:
+  - apple watch
+---
